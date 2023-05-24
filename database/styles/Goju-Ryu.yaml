@@ -1,0 +1,15 @@
+# Judo Documentation Project: Judo Lineage Tree Sub-project
+---
+
+style:
+  id: JDP-S-12
+  name: Gōjū-ryū
+  native_name:
+    name: 剛柔流
+    lang: ja
+  birth: 
+    date: 19th century
+    location: Naha, Okinawa
+    country_code: JPN  
+  sources:
+    - uri: https://en.wikipedia.org/wiki/G%C5%8Dj%C5%AB-ry%C5%AB
