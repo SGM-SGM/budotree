@@ -1,0 +1,36 @@
+# Judo Documentation Project: Judo Lineage Tree Sub-project
+---
+
+person:
+  id: JDP-47
+  name: Chōjun Miyagi
+  native_name:
+      name: 宮城 長順
+      lang: ja
+  nationality:
+    - JPN
+  birth: 
+    date: 1888-04-25
+    location: Naha, Okinawa
+    country_code: JPN
+  death:
+    date: 1953-10-08
+    location: Okinawa
+    country_code: JPN
+  photo_url: https://en.wikipedia.org/wiki/Ch%C5%8Djun_Miyagi#/media/File:Miyagi_Chojun.jpg
+  teachers:
+    - id:
+      style_id:
+      place:
+      period:
+        start:
+        end:
+      rank: 
+  rank:
+    - style_id:
+      org: 
+      teacher:
+      rank: 
+      date: 
+  sources:
+    - uri: https://en.wikipedia.org/wiki/Ch%C5%8Djun_Miyagi
