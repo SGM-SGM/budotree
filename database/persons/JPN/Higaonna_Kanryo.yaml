@@ -1,0 +1,36 @@
+# Judo Documentation Project: Judo Lineage Tree Sub-project
+---
+
+person:
+  id: JDP-48
+  name: Higaonna Kanryō
+  native_name:
+      name: 東恩納 寛量
+      lang: ja
+  nationality:
+    - JPN
+  birth: 
+    date: 1853-03-10
+    location: Naha, Okinawa
+    country_code: JPN
+  death:
+    date: 1915-10
+    location: Naha, Okinawa
+    country_code: JPN
+  photo_url: https://en.wikipedia.org/wiki/Higaonna_Kanry%C5%8D#/media/File:Higaonna_Kanryo.jpg
+  teachers:
+    - id:
+      style_id:
+      place:
+      period:
+        start:
+        end:
+      rank: 
+  rank:
+    - style_id:
+      org: 
+      teacher:
+      rank: 
+      date: 
+  sources:
+    - uri: https://en.wikipedia.org/wiki/Higaonna_Kanry%C5%8D
